@@ -1,0 +1,8 @@
+<1;2>here is an example
+<4;1>the first number is how fast you want it to type (in seconds)
+<1;4>the second number is how long you want it to pause (in seconds)
+<2;2;color:f00>you can change the color
+<2;2;color:fff;fnt:shaky>or the font
+<2;2;fnt:default;mar:20>or the space btwn. letters!
+<2;2;mar:0;shake:1>you can also make it shake!
+<5;5;shake:10>wheeeeeeeeeeeeeeeeeeeeeeeeeee

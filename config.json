@@ -1,0 +1,11 @@
+{
+    "fonts": {
+        "default":"./fonts/default.ttf",
+        "shaky":"./fonts/shaky.ttf"
+    },
+    "defaults": {
+        "font": "default",
+        "time-between":1,
+        "size":32
+    }
+}
