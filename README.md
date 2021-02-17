@@ -9,7 +9,8 @@ put your .ttf files inside<br>
 in `config.json`, add your fonts like so:<br>
 ```json
 "fontname":"./fonts/file.ttf"
-```<br>
+```
+<br>
 (you'd use `fontname` like `fnt:fontname` in the script)<br>
 change script<br>
 `py main.py`<br>
